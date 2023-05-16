@@ -1,0 +1,4 @@
+      TICKER    PRICE
+0  Crude Oil    70.66
+1       Gold  1993.30
+2     Silver    23.90
